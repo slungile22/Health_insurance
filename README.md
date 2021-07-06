@@ -3,7 +3,7 @@
 - This repository contains a tool that estimates health insurance charges in USA.
 - With the help of this project we can estimate insurance charges.
 - The link to the app can be found here:
-- [link] (https://dashboard.heroku.com/apps/insurancepredic/deploy)
+- [link] (https://insurancepredic.herokuapp.com/predict)
 
 ![download](https://user-images.githubusercontent.com/62171453/124612119-5cd47e80-de72-11eb-99e6-066923b7a302.png)
 
